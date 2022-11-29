@@ -1,0 +1,14 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "practice for i18n setup and capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "areen",
+  "license": "ISC",
+  "dependencies": {
+    "i18next": "^22.0.6"
+  }
+}
