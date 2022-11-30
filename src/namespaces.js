@@ -20,5 +20,5 @@ i18next.init({
 // will pick key from default "home" namespace
 console.log(i18next.t('manish'))
 
-// will pick key from default "home" namespace
+// will pick key from default "common" namespace
 console.log(i18next.t('save', { ns: 'common' }))
